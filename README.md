@@ -24,7 +24,7 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: ' .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fafc.me/diepfx2005.
+    messLink: 'm.me/diepfx2005.
 }
 ```
 
