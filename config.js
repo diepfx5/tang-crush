@@ -32,6 +32,6 @@ const CONFIG = {
 
     btnAccept: 'Dạ anh <3',
 
-    messLink: 'http://fb.com' //https//m.me/diepfx2005
+    messLink: 'http://fb.com/diepfx2005' //https//m.me/diepfx2005
 
 }
